@@ -1,0 +1,500 @@
+food:neutral, served:positive, appetizers:positive
+owner:neutral, waitress:negative, wine:neutral
+Scene:positive, lunch:neutral
+waiter:negative, pastries:neutral
+menu:neutral, prices:positive
+food:positive, service:negative
+service:positive, decor:positive, steak:negative
+appetizers:neutral, staff:positive, food:positive
+brasserie-style menu:neutral, bistro choices:positive, frisee salad with bacon, blue cheese:neutral, a poached egg:neutral, steak tartare:neutral, moules:neutral, steak frites:neutral, burgers:positive
+brunch:positive, chips:neutral, waitress:negative
+Appetizers:positive, bountiful calamari plate:neutral, appropriately earthy mushroom polenta:neutral
+burgers:positive, fries:positive, local dinner:neutral
+Scene:neutral, waiters:negative, diners:neutral, darling:neutral
+wait staff:negative, bar:neutral
+beer:neutral, order:negative
+waitress:negative, coffee:neutral, food:neutral
+service:neutral, meal:neutral, wait:positive
+fish:negative, waitress:neutral, manager:neutral
+glass of wine:positive, individual pizzas:neutral, dessert:positive
+menu:neutral, meals:positive
+dining:neutral, environment:positive, Food:positive
+waiting:neutral, table:neutral, drink:neutral, waiters:negative
+pie:neutral, pizza:positive
+meat:positive, cheese:positive, sauce:neutral
+appetizers:positive, baked fontina:neutral, lentil cake:neutral, french onion soup:neutral, salads:positive
+dinner:neutral, place:neutral, atmosphere:positive
+bartender:positive, wait staff:positive, appreciated:positive, customer:neutral
+attitude:positive, managers:positive, food:negative
+Brunch:neutral, service:negative
+food:positive, price:negative
+specials:positive, wine:neutral
+portions:negative, cluding wine:neutral
+service:negative, menus:neutral, wine list:negative
+waiter:positive, sushi:neutral
+list:positive, American bar food staples:neutral, burgers:neutral, fries:neutral
+dinner:neutral, place:negative
+waiters:negative, menu:neutral
+food:positive, seating:neutral, delivery:neutral
+backyard:neutral, alternative:positive, tables:positive
+host:positive, menu:neutral
+waitress:negative, water:neutral
+fish:positive, grill:neutral
+manager:negative, host:negative, dinner:neutral
+salad:positive, pasta:negative
+chicken breast with mole sauce:neutral, guacamole:neutral, sour cream and pico de:positive
+Buffet lunch:neutral, sauce:negative
+drink:neutral, tip:positive
+reservations:neutral, dishes served:positive
+waitress:negative, drinks:neutral
+bar:neutral, place:negative
+appetizers:negative, cup of fried clams:neutral
+fried catfish:negative, seasoning:negative, yams:positive, mac and cheese:positive
+manager:neutral, table:neutral, cold:negative
+dessert:positive, cost:negative
+waiter:positive, menu:neutral
+waiter:positive, menu:neutral
+PRICED:negative, MEALS:positive
+peanut sauce:negative, glass:neutral
+manager:negative, glass of water:neutral
+staff:positive, waiter:positive, dessert:neutral, candle:neutral, meal:neutral
+california roll:neutral, food:positive
+holiday dinner:neutral, waiting:negative, appetizers:neutral
+food:positive, server:negative
+bar:positive, meat:neutral
+pizza crust:negative, cheese:positive, sauce:positive
+waiter:negative, water:neutral
+waiting:negative, host:neutral
+disco balls:negative, DJ:neutral, dance beats:negative
+waitress:negative, drink:neutral, entrees:neutral
+dessert:neutral, flan:positive, rice pudding:positive
+seating:positive, wait:neutral
+plates:neutral, Marinated Kobe beef:positive, scallops collapse:positive, eel-soy broth with black truffles and foie gras:neutral
+waiter:negative, cooking of miso soup:neutral
+atmosphere:positive, bar:neutral
+decor:negative, freeking pizza:positive
+waiter:negative, brunch:neutral
+portions:negative, dinner:neutral
+mango salsa with fish cake:negative, apple suace:negative, pork chop:neutral
+service:negative, waiter:positive
+employees:neutral, treats:positive
+eggs:positive, pancakes:neutral, French Toast:neutral, coffee:positive
+open-faced sandwich:neutral, scrambled eggs:positive, lox:neutral
+service:negative, setting:negative, food:positive
+place:negative, taste:neutral, food:positive
+reservations:neutral, place:negative
+table:neutral, manager:negative, food:negative
+waiting:negative, plates:neutral
+bar:neutral, waitress:negative, rolls:positive, ice cream:negative
+menu:neutral, gnocchi:positive
+attitudes:negative, district:neutral
+blueberry pancakes:negative, menu:neutral
+reservations:neutral, waiting:negative
+Otoro tuna:positive, sashimi:neutral, chef:neutral, whisper:neutral, sea salt:neutral, pleasure:positive
+service:negative, water:neutral
+pizza:positive, lunch:neutral
+sushi:neutral, delivery:positive
+waiters:negative, menus:neutral
+round pizza:negative, Sicilian:positive
+new bar menu:neutral, bread:negative
+fennel-fragrant grilled sardines:neutral, pastas:positive, sweet beet ravioli:positive, brown-butter-slicked squash tortelli:positive, swiss chard-ricotta:positive
+range:negative, food:neutral
+servers:positive, menu:neutral
+vibe:negative, tables:positive
+bar:neutral, drop ceiling:neutral, space:positive
+bill:neutral, drinks:neutral, waitress:negative
+hostess:negative, waiter:negative, reservation:neutral
+server:negative, food:neutral
+Food:neutral, versatile:neutral, menu:neutral, French:neutral, onion soup:positive, country ham sandwiches:positive, liver terrine:positive, kumquat-cranberry:positive, speck:positive, sausage:positive, cheese plates:positive
+price:negative, menu:neutral
+food:positive, served:neutral
+Food:negative, portions:positive
+dining room:neutral, manager:negative
+Candles:neutral, furnishings:positive, music:positive, experience:positive
+waiter:negative, menu:neutral
+place:negative, bar:neutral
+wait:negative, table:neutral
+price:positive, lunch:positive, appetizer:neutral
+lunch:neutral, per-slice Pizza:positive
+food:positive, service:positive, seats:negative, guy:negative
+brunch:neutral, food:negative
+waitress:negative, drink:neutral, meal:negative
+wait staff:negative, bar area:neutral
+concoction:negative, Bar:neutral
+calamari app:neutral, scallop ceviche:negative
+decor:negative, bar:negative, atmosphere:positive
+Menu:neutral, food:negative
+shrimp summer role:positive, shrimp dishes:neutral
+steak special:negative, menu:neutral, waitress:negative, temperature:negative
+reservation:neutral, staff:negative
+lunch:neutral, waiting:neutral, burger:negative
+time:positive, drink:neutral, sheet:neutral
+lounge:positive, new color:positive, mirrors:neutral, menu:positive, drinks:positive, staff:positive
+prices:negative, food:positive
+server:negative, drink:neutral
+waiter:negative, tables:neutral, manager:neutral
+drinks:neutral, spot:positive
+menu:neutral, duck dish:positive
+wine:neutral, bartendars:positive
+lunch:neutral, waiter:negative
+waitstaff:negative, waiter:positive
+organic chicken:negative, wine:neutral, waitress:negative
+outdoor patio:positive, ambience:neutral
+Food:neutral, Blue Ribbon menu:neutral, sandwiches:neutral, range of cheese:positive, vegetable portions:positive
+food:neutral, flavor:positive
+blue shirted cigar:negative, reservation:neutral
+bass:negative, tomato sauce:neutral, fish:negative, spinach:negative, dish:negative
+service:positive, waiter:negative
+price:neutral, quality of the buffet:positive
+clientelle:negative, food:neutral, menu:neutral
+drinks:neutral, salad:negative, seasoning:negative
+atmosphere:positive, lighting:negative, menu:neutral
+sushi:negative, Korean fare:neutral
+appetizer:neutral, wait staff:positive
+Entree:neutral, dishes:positive
+waitress:neutral, salmon:negative, dish:neutral
+reservations:neutral, table in the room:negative
+food:neutral, mix of sandwiches:positive, salads:positive, appetizers:positive
+vegetable Napoleon:positive, veggie burger:neutral, waiting:negative
+menu:neutral, Cajun wraps:positive
+waitress:negative, menu:neutral, food:neutral
+homemade food:positive, day:neutral
+appetizer:neutral, waiter:negative
+dinner:neutral, waiter:negative, mojitos:neutral
+dinner:neutral, noise level:negative
+terrace:positive, space:neutral
+eggs:negative, food:neutral
+drinks:neutral, manager:negative
+dinner:neutral, drink:neutral, French cosmos:positive
+msg Dessert:positive, food quality:neutral
+salad:neutral, main course:neutral, dessert menu:negative
+diners:neutral, meal:positive
+food:positive, prix fixe:positive, appetizer:neutral
+burgers:neutral, wait staff:negative
+music:positive, waitress:positive, wine garlic bread:neutral
+cocktail:neutral, waiter:negative, coffee:neutral
+food:positive, presentation:neutral
+service:negative, waiter:negative, water:neutral, meal:neutral
+drink:neutral, answer:negative
+coffee:neutral, service:positive
+beginning appetizers:neutral, scallops:positive, chocolate souffle with rasberry mint sorbet:positive
+waiter:negative, menu:neutral, kitchen:neutral
+deserts:negative, waiters:negative, menus closed:neutral
+waiting:neutral, food:negative, counter:neutral
+bar:neutral, reservations:neutral, time:positive
+busboys:positive, server:negative, bartender:negative
+dinner:negative, waiting area:neutral
+food:negative, bartender:negative, drinks:neutral, bread:neutral
+waitresses:negative, open kitchen:neutral, bar:negative
+staff:negative, menus:neutral, dinner:neutral
+reservations:neutral, waiting:negative
+mussels marina:positive, appetizer:neutral
+waiter:negative, table:neutral, dessert menu:neutral
+tomato and onions:neutral, tomatoes:positive
+dining room:neutral, wait staff:negative
+manager:negative, lemon juice:neutral, ceasar dressing:neutral
+Scene:neutral, decor:positive
+brunch:neutral, hostess:negative, wait staff:negative
+waiter:neutral, main courses:neutral, dish:neutral, red pepper hummus:positive
+sardinian Stuffed Squid:positive, Catfish:neutral, sauce:neutral
+service:positive, manager:positive, food:neutral
+guac:neutral, drinks:negative
+dinner:neutral, waiter:positive, menu:neutral
+lobster spring rolls:neutral, shrimp dumplings with citrus soy:neutral, smoky:neutral, filet mignon-pineapple variety:positive
+meal:neutral, server:negative
+served:positive, service:negative
+steamed chocolate cake with mint ice:negative, dessert:neutral
+dishes:neutral, bill:neutral, desserts:positive
+meal:positive, bar:neutral, King crab:neutral
+dinner:neutral, service:negative, shrimp octopus:neutral
+wait staff:negative, drinks:neutral, dinner:neutral
+appetizers:positive, main courses:neutral
+food:positive, waitress:negative
+dinner:neutral, drink:neutral, bar:neutral, staff:positive
+dinner:neutral, food:positive
+dining establishment:neutral, artworks:positive, gold ceiling:positive
+service:positive, meal:neutral
+entrees:positive, Mussels:neutral, menu:neutral
+lunch:neutral, dinner:neutral, food:positive
+Service:positive, hostess:neutral
+service:positive, chef:neutral, dish:positive
+table:neutral, server:negative, management:negative
+Service:negative, bar:neutral, diners:neutral, cocktail waiters:neutral
+decore:positive, fish:positive, tables:neutral
+bar:neutral, martinis:positive
+Lobster ceviche:positive, mango:neutral
+food:neutral, waiter:positive
+Decor:positive, bathrooms:negative
+Prices:positive, appetizers:neutral, main course:neutral, drink:neutral
+hostess:neutral, service:positive
+menu:neutral, exotic teas:neutral, beverages:negative, meal:positive
+servers:negative, slice:neutral
+reservations:neutral, choices:negative, food:positive, menu:neutral
+olive cream cheese:positive, lox spread:positive, bagel:neutral
+dining:neutral, eateries:negative
+meat:positive, vegetables:negative
+drink:neutral, pleasures:positive, food:positive
+serving:neutral, teas:neutral, food:neutral, menu:negative
+dinner:neutral, vibe:positive
+Chinese food:positive, deluxe dining room:neutral
+smoked salmon appetizer:positive, goat cheese:neutral, onions:neutral
+staff:positive, detail:neutral
+Reservations:neutral, pre-game drink:neutral, hostess:positive
+patties:negative, tofu:neutral, mixed:positive
+waiting:neutral, chairs:negative
+bar:neutral, reservations:negative, food:neutral
+waitresses:negative, glass:neutral
+Chinese food:positive, stuff:positive, dinner:neutral
+waitress:negative, food:positive
+drinks:neutral, waiter:negative
+Food:neutral, Italian menu:positive, bread:positive, varieties:positive
+pasta:positive, family:neutral
+Mac cheese:negative, beet salad:negative, tuna sandwhich:neutral
+edamame:neutral, sushi chef:positive, quality of food:positive, dish:positive
+table:neutral, staff:negative, seats:negative, bar:neutral
+meal:neutral, manager:positive
+dish:positive, menu:neutral
+door:neutral, maitre:negative
+appetizers:neutral, tuna tartare:positive, dim sum:positive, shrimp:positive, foie gras dumpling:positive, flavors:positive
+prices:positive, entrees:neutral
+bar:neutral, front:neutral, tables:negative
+table:neutral, manager:negative
+service:negative, food:positive, ambience:positive, wait:positive
+somosas:positive, chai:positive, chole:positive, dhosas:negative, dhal:negative
+Dinner:neutral, portions:negative
+breakfast:neutral, portions:positive, quality:positive
+mussels:positive, smoked salmon:negative, appys:neutral
+full bar:positive, tomato:neutral, Abijah's secret sauce:neutral, un-beef patties:neutral
+server:negative, water:neutral, dessert:neutral
+menu:neutral, ribs:positive, pork:positive
+waitress:negative, glass of wine:neutral, table:neutral
+Mediterranean influence:neutral, tuna salad:positive, roasted red peppers:neutral
+filet:negative, apitites:positive
+prices:positive, dinner:neutral, tip:neutral
+seating:neutral, waiter:positive, maitre:positive
+interior:positive, bar:negative
+staff:negative, meal:neutral, plates:neutral, main courses:neutral
+waiter:negative, wine:neutral
+portion:positive, drink list:neutral
+wine bar:positive, Mediterranean:neutral
+wait:neutral, food:positive
+Service:negative, price category:neutral
+ingredients:neutral, pizza:positive
+a bowl of fried chickpeas:neutral, menu:neutral, lamb skewers:positive, French bread:neutral, meat:neutral
+table:neutral, appetizers:neutral, waitresses:positive
+reservation:neutral, waiters:negative
+filo dough:neutral, deep fried:neutral, appetizer:positive
+hostess:negative, seat:neutral
+meal:neutral, Nelson:positive
+service:negative, glass:neutral, water:neutral
+server:negative, wine:neutral, the table:neutral, fish:neutral, bottle:neutral
+server:positive, wine:neutral, table:neutral
+cost:neutral, ingredients:positive
+wait:negative, food:positive, service:positive
+Service:negative, server:negative, menus:neutral, dinner:neutral
+drinks:neutral, service:negative
+menu:neutral, bruschetta:positive, tramezzini:positive
+atmosphere:positive, dinner:negative
+lunch:neutral, food:positive, turkey sandwich with avocado and bacon:neutral
+salad:positive, desert:negative, potatoes:negative
+2 cheese slices:positive, drink:neutral
+bill:neutral, food:neutral, drinks:negative
+place:negative, table:neutral, menu:neutral
+jelly fish:positive, drunken chicken:positive, soupy dumplings:positive, stir fry blue crab:neutral
+prices:negative, menu:neutral, soup:neutral
+meal:neutral, dinner entree:neutral, appetizer:neutral, portions:positive
+space:positive, ceiling:neutral
+dining experience:neutral, place:positive
+portions:positive, noodle soup:neutral
+drinks:neutral, atmosphere:positive, lounge:neutral, dinner:neutral, bar crowd:neutral
+place:negative, check:neutral, food:negative
+frozen lasagna:neutral, service:negative, manager:negative
+prices:negative, menu:neutral, bill:neutral
+table:neutral, meal:negative
+coffee:neutral, water:neutral, server:negative
+service:positive, appetizers:neutral
+Food:positive, tamales:positive, counter:neutral
+waiters:positive, menu:neutral
+tip:neutral, server:negative
+white sangria:neutral, tapas:positive
+maitre:neutral, lobby:neutral, menu:positive
+flavor:negative, table:neutral, meals:neutral
+service:positive, tabs:negative
+ceasar salad:neutral, lettuce:neutral, plate:positive, mac and cheese:positive
+dinner:positive, salad:neutral
+service:negative, manager:negative, bar:neutral
+waiting:negative, dessert:neutral
+food:neutral, table:neutral, waitress:negative
+waitress:negative, steak knife:neutral
+dessert:neutral, food:positive
+dinner:neutral, wait:positive
+waitress:negative, single drink:neutral, food:neutral
+waitress:negative, back room:neutral
+servers:positive, food:neutral
+Service:negative, kaiseki dinners:neutral, entree:neutral
+fish tacos:positive, pizza with fresh mozzarella:positive, lobster roll:neutral
+reservation:neutral, kitchen:positive
+Lamb:neutral, champagne:neutral, Chicken with Soba noodles and baked clams:positive
+calves liver:neutral, sauce:positive, fried onions:positive
+place:negative, menu:neutral
+eggplant parmasean:positive, main course:neutral, shrimp with pasta:neutral
+sushi:negative, waiters:negative, miso soup:neutral
+patties:positive, beef:positive, glasses:neutral
+manager:positive, WAITER:negative
+food:positive, service:negative
+hot dogs:positive, beverage selection:neutral, papaya juice:positive, drink:positive
+scallops:positive, dinner:neutral
+dinner:neutral, meal:positive, dishes served:positive
+waiter:neutral, drink:negative
+family:neutral, service:positive
+food:negative, Bakery:neutral, menu:neutral
+food:positive, service:positive, owners:neutral
+waitress:negative, price:neutral, menu:neutral
+reservations:neutral, hostess:negative, pompous maitre:negative
+jazz bar:neutral, garden dining:positive
+plates:neutral, waitstaff:negative
+dining:neutral, beef:positive
+waitress:negative, wine suggestion:neutral
+waiter:positive, drinks:neutral
+service:negative, desserts:positive
+waiter:negative, wine:neutral, meal:neutral
+turkey melt:neutral, fries:positive
+bartender:negative, bill:neutral
+shrimp:negative, broiled scallops:neutral
+reservations:neutral, manager:negative, wait:negative
+water:neutral, table:neutral, waitress:positive, manager:positive
+waiter:negative, soda:neutral
+ambience:negative, bar:neutral, noise:negative
+pizza:positive, service:negative
+dessert:neutral, waiter:negative, dance:negative
+dining room:neutral, food:positive
+main course:neutral, Beef Negimaki:positive
+drinks:neutral, service:negative
+dinner:neutral, meal:positive
+crowds:positive, dinner:neutral, table:neutral
+drinks:neutral, server:negative
+manager:neutral, bill:negative
+waiter:negative, drinks:neutral, bar:neutral, water:neutral
+waitress:positive, meal:neutral
+brunch:neutral, service:negative
+bar:neutral, wines:positive
+waitress:negative, food:neutral, appetizers:neutral
+waiter:negative, plates:neutral, manager:negative, meal:neutral
+decor:positive, place:negative
+price:negative, atmosphere:positive, food:positive
+piano:negative, meal:positive
+pizza:positive, menu:neutral
+spot:positive, drinks:neutral, time:positive
+nachos:positive, onion bloom:negative, calamari:negative
+Food:neutral, array:positive, appetizers:positive
+waiter:negative, drinks:neutral
+wine:neutral, waitress:positive
+ice cream dessert:positive, service:positive, ice cream scoop:neutral
+dining:neutral, owner:negative
+waiter:negative, menus:neutral
+wait:negative, Brunch:neutral
+waiters:negative, bread:neutral, appetizer:negative
+atmosphere:negative, music:positive, coffee:positive
+cannoli:neutral, cookies:neutral, white cakes:positive
+menu:neutral, steak:positive, duck:positive
+bistro food:neutral, decor:positive, waiters:positive, tables:negative
+appetizers:neutral, salad:neutral, manager:negative
+wait staff:negative, meal:positive
+service:positive, food:negative
+manager:negative, appetizers:neutral
+seat:neutral, selection:negative
+food:positive, entree:neutral, naan:neutral, d al:neutral, salad:positive
+appetizers:neutral, Thai food:neutral, Japanese food:positive
+crew:negative, servers:negative, plates:neutral, dinner:neutral
+waiter:negative, dish:neutral, dessert:neutral, mix up:neutral
+Black Duck:positive, dinner:neutral, drink:neutral
+ambiance:positive, service:positive, sommlier:neutral, captain:positive, back waiters:neutral, foods:positive
+entrees:neutral, portions:positive
+brunch:neutral, service:negative
+service:negative, food:positive, steak:negative
+lunch:neutral, service:negative
+Dinner:neutral, Appetizers:positive, waiter:negative
+owner manager:neutral, service:negative, dj:neutral
+waitress:negative, drinks:neutral, plates:neutral
+service:positive, location:neutral, dishes:negative
+place:negative, table:neutral
+servers:positive, dining room:neutral
+atmosphere:positive, nostalgia:neutral
+brunch:neutral, Blueberry Waffles:positive
+spot:positive, dinner:neutral
+waiters:negative, water:neutral
+spot:positive, bill:negative
+waiter:negative, menu:neutral
+place:negative, drinks:neutral, bar:neutral
+Mussels:neutral, starter:positive
+chef:neutral, brick oven:positive, wine:positive
+decor:positive, entertainment:positive, dance floor:neutral, disco music:negative
+place:positive, bar:neutral, oysters:neutral
+menu:neutral, Mexican:positive
+owners:neutral, cooks:positive
+appetizer:negative, waiter:neutral
+food:positive, service:negative
+food:neutral, portions:negative, lamb:negative
+bar:neutral, owners:negative
+bagels:positive, counter:neutral
+food:positive, quality:negative
+waitress:negative, menus:neutral, fish entrees:neutral
+dishes:positive, desserts:negative, rice pudding:neutral
+dishes:neutral, Polish comfort food:positive, kitchen:positive
+waiter:negative, menu:neutral, food:neutral
+dinner:neutral, scene:positive
+plates:neutral, food:neutral, Japanese:neutral, menu:positive
+Moules:positive, lobster ravioli:negative
+veggie:neutral, dessert menu:positive, vegan:positive
+food:positive, barbecued lamb:neutral
+service:negative, wait:neutral
+lunch:neutral, triple-decker roast turkey club:positive, brioche burger:neutral, skin-on fries:neutral
+WAITRESS:negative, SALAD:negative, DRINKS:neutral
+curry dishes:positive, fries:positive, sweet potato:neutral
+Food:neutral, menu:neutral, servings:positive
+space:positive, serving dinner:neutral
+table:neutral, service:negative
+menu:positive, beef:neutral
+waitress:negative, taste:neutral
+portions:negative, food:positive
+ravioli:positive, serving:negative
+dinner:neutral, dessert drinks:positive, rice dishes:neutral
+waiters:neutral, steak:positive
+waitress:positive, chef:negative, owner:negative
+desserts:positive, dulce de leche ice-cream:neutral, chocolate sauce tic-tac-toe:neutral, poached pineapple:neutral
+portions:positive, service:positive, diner food:neutral
+server:negative, banquet menu:neutral
+waitress:negative, drink:neutral, dinner:neutral
+menu:neutral, food:negative
+waiter:negative, kitchen:neutral, food:negative
+beef:neutral, Chinese food:positive
+tip:neutral, beef entree with salad:neutral, noodles:neutral, rice:neutral, fried dumpling:neutral, appetizers:positive
+Food:positive, area:neutral
+manager:negative, coffee:neutral, waiters:neutral
+waiter:negative, meal:neutral
+menu:neutral, soul food:positive
+brunch:neutral, dish:negative
+bottle of red wine:neutral, waitress:negative
+Food:positive, Chef:neutral, traditional Latin cuisine:positive, sorbet:positive, shrimp seviche:positive, green plantains coat:positive, halibut resting:positive, sweet:positive, tart tomato escabeche:positive, steak:positive
+chicken:neutral, Hawaiian rib:neutral, burger:positive
+waiter:positive, bread:neutral
+server:negative, plates:neutral
+bagels:positive, texture:neutral
+Server:positive, soup:neutral
+Sinatra:neutral, pizza joint:positive
+waiter:negative, manager:positive
+hostess:negative, menus:neutral
+bar:neutral, tapas:negative
+wait:positive, service:positive, pizza:negative
+food:positive, service:positive, tempura shrimp roll:negative, lobster salad enough:negative
+wait:negative, table:neutral
+busboy:negative, appetizers:neutral
+food:positive, price:negative
+waitress:negative, dishes:neutral, table:neutral
+waitress:positive, bill:neutral
+menu items:neutral, rib appetizer:negative
+wait staff:negative, drinks:neutral
+waiter:negative, meal:neutral, dinner:neutral
+stained glass:positive, walls:neutral
+food:neutral, beers on tap:positive, priced wine list:positive
+Mojitos:neutral, Pinot:neutral, drink list:negative, drinks:negative

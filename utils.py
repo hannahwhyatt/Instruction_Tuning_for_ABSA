@@ -87,7 +87,7 @@ class instructionModelHandler:
         # Finetune the model
         torch.cuda.empty_cache()
         trainer.train()
-
+        self.model.save()
         return trainer
     
     def generate_output(self, tokenized_dataset, batch_size = 4, max_length = 128, sample_set = 'train'):

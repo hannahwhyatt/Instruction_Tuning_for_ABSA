@@ -3,7 +3,6 @@ Tools for instruction fine-tuning a language model via HuggingFace.
 Available:
 - ABSA: (aspect-sentiment (pair) extraction)  
 
-More tasks to follow 🕺
 
 ## General
 - **data_preprocessing.py:**  tools for building instruction based prompts and label-based output sequences

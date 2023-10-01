@@ -1,4 +1,6 @@
 # instruction_tuning
+Code used for my MSc dissertation project.  
+
 Tools for instruction fine-tuning a language model via HuggingFace.  
 Available:
 - ABSA: (aspect-sentiment (pair) extraction)  
